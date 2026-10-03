@@ -145,12 +145,13 @@ const projects = {
             </p>
 
 
-            <h3>O que estou aprendendo</h3>
+            <h3>O que aprendi até o momento</h3>
 
             <p>
-                Experiência com APIs REST,
-                componentes React, requisições HTTP, persistência
-                de dados e separação entre Front-end e Back-end.
+                Como funcionam API's Rest, manipulação de endpoints,
+                injeção de dependências com beans, além de colocar
+                em prática os princípios SOLID por meio da dinamicidade
+                do spring boot.
             </p>
 
         `
